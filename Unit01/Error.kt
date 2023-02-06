@@ -1,6 +1,6 @@
 fun main() {
-    var width = 5
-    var height = 5
-    var area = width * height
+    val width = 5
+    val heigh = 5
+    val area = width * heigh
     println(area) //10
 }
