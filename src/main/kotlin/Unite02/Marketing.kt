@@ -7,7 +7,8 @@ fun main() {
     if (friendsCount >= 500) {
         // less than 500 friends = introverts
         println("Adopt a dog today!")
-    } else // less than 500 friends = introverts
+    }
+    else // less than 500 friends = introverts
     {
         println("Buy Cat food at 20% Off")
     }
