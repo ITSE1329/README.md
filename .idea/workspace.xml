@@ -6,8 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="b143e58e-ac75-464b-b0cb-e7cc3836d796" name="Changes" comment="made changes to files">
       <change afterPath="$PROJECT_DIR$/src/main/kotlin/Unite02/Main.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Unite02/Variable.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Unite02/varSamples.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,6 +45,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MarketingKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MarketingKt" />
+      <module name="spring23" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="VarSamplesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="VarSamplesKt" />
       <module name="spring23" />
@@ -61,9 +66,18 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="market_research" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="market_research" />
+      <module name="spring23" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Kotlin.VariableKt" />
+        <item itemvalue="Kotlin.MarketingKt" />
+        <item itemvalue="Kotlin.market_research" />
         <item itemvalue="Kotlin.VarSamplesKt" />
         <item itemvalue="Kotlin.MainKt" />
       </list>
@@ -92,7 +106,28 @@
       <option name="project" value="LOCAL" />
       <updated>1676917844880</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="made changes to files">
+      <created>1677239962182</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1677239962182</updated>
+    </task>
+    <task id="LOCAL-00004" summary="made changes to files">
+      <created>1677242779266</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1677242779266</updated>
+    </task>
+    <task id="LOCAL-00005" summary="made changes to files">
+      <created>1677254000067</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1677254000068</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
