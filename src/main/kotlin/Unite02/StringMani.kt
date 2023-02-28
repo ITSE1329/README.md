@@ -1,10 +1,8 @@
-import java.util.*
-
 fun main() {
 
-    val fullname = "Elnaz Azami"
-    val assignment = "Sring Manipulator"
-    val date ="02/27/2023"
+    val fullname: String = "Elnaz Azami"
+    val assignment: String = "Sring Mnaipulator"
+    val date: String ="02/27/2023"
     val cityName = "Paris"
 
     println(fullname)
@@ -12,7 +10,7 @@ fun main() {
     println(date)
     println(cityName)
     println("Number of characters in the city name: ${cityName.length}")
-    println("City name in all uppercase: ${cityName.uppercase(Locale.getDefault())}")
-    println("City name in all lowercase: ${cityName.lowercase(Locale.getDefault())}")
+    println("City name in all uppercase: ${cityName.toUpperCase()}")
+    println("City name in all lowercase: ${cityName.toLowerCase()}")
     println("First character of the city name: ${cityName.first()}")
 }
