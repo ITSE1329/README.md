@@ -1,6 +1,6 @@
 fun main() {
 
-    val num = 1
+    val num = 10
     when (num) {
         1 -> println("I")
         2 -> println("II")
