@@ -1,4 +1,5 @@
-fun main() {
+
+    fun main() {
         val sales1: Int
         val sales2: Int
         val sales3: Int
